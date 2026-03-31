@@ -1,7 +1,7 @@
 
 
 <h1>My Ambition</h1>
-I want to become a highly skilled technician and a network engineer, so i can help build a network, so i can see how each conponent in the network operates. I would also like to inspire people to get more knowledge about networks and the technology industry. I also want to become a business leader in the technology after I have gain experience in the job and the skills that I will learn from the jobs that I will do. I want to help companies to able to good and innovatative products.
+I want to become a highly skilled technician and a network engineer, so i can help build a network, so i can see how each component in the network operates. I would also like to inspire people to get more knowledge about networks and the technology industry. I also want to become a business leader in the technology after I have gain experience in the job and the skills that I will learn from the jobs that I will do. I want to help companies to able to good and innovatative products.
 
 <h2>Touheed Ismail CV</h2>
 My goal is to become a part of a company in which i can grow and expand my knowledge and skills in the information Technology field. I want to focus mostly on Communications in Networks. I want to expand my knowledge and understand what makes a network tick and what to do to keep a network running.
@@ -28,7 +28,7 @@ My goal is to become a part of a company in which i can grow and expand my knowl
 <br>Routing protocols
 <br>Network design
 
-<h2>Mock Interview Link
+<h2>Mock Interview 
 <br> <video src="./touheed-ismail-mock-interview.mp4" controls width="600"></video>
 
 
