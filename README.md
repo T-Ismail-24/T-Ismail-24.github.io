@@ -28,5 +28,7 @@ My goal is to become a part of a company in which i can grow and expand my knowl
 <br>Routing protocols
 <br>Network design
 
-<br><h5> Mock interview link
-<br> "https://github.com/T-Ismail-24/T-Ismail-24.github.io/blob/74dfec8b55de045127e97f484a120c890544485f/touheed%20ismail%20mock%20interview%20(221176225)%20(2).mp4" 
+<h2>Mock Interview Link
+<br> <video src="./touheed-ismail-mock-interview.mp4" controls width="600"></video>
+
+
