@@ -7,19 +7,19 @@ I want to become a highly skilled technician and a network engineer, so i can he
 My goal is to become a part of a company in which i can grow and expand my knowledge and skills in the information Technology field. I want to focus mostly on Communications in Networks. I want to expand my knowledge and understand what makes a network tick and what to do to keep a network running.
 
 <h3>Contact Details</h3>
-<br>Cell number= 0848527306
+<br>Cell number:0848527306
 <br> Email address: 221176225@mycput.ac.za
 
 <h4>Education</h4>
-<br>Cape Peninsula university of Technology
+<br>**Cape Peninsula university of Technology**
 <br> Diploma: ICT in communication networks
 <br>Current qualification
 
-<br>Cape Peninsula University of Technology
+<br>**Cape Peninsula University of Technology**
 <br>Higher certificate in communication and information technology
 <br>Completed in 2021
 
-<br> Dominican Grimley School for the Deaf (name change to Seven Step Academy for the Deaf)
+<br>**Dominican Grimley School for the Deaf (name change to Seven Step Academy for the Deaf)**
 <br>Completely matric in 2020
 
 <h4>Skills</h4>
