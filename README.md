@@ -32,3 +32,10 @@ My goal is to become a part of a company in which i can grow and expand my knowl
 <br> <video src="./touheed-ismail-mock-interview.mp4" controls width="600"></video>
 
 
+
+
+<h3> I did a project on AI in the healthcare.</h3>
+How they could help to monitor patients while they are waiting for treatment. If a patient waits too long, the AI should alert the health staff.
+
+
+
