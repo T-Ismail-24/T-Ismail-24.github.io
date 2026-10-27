@@ -44,4 +44,5 @@ How they could help to monitor patients while they are waiting for treatment. If
 
 
 
-<img width="988" height="922" alt="Image" src="https://github.com/user-attachments/assets/100f269d-ba06-475d-b8bf-16dedf955d2b" />
+
+<img width="995" height="922" alt="Image" src="https://github.com/user-attachments/assets/100f269d-ba06-475d-b8bf-16dedf955d2b" />
