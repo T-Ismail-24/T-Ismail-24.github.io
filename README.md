@@ -39,4 +39,5 @@ How they could help to monitor patients while they are waiting for treatment. If
 
 
 <h2>Agile-Charter</h2>
-[agile charter 1](agile charter 1.png)
+
+![](agile charter 1.png)
