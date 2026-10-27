@@ -38,4 +38,5 @@ My goal is to become a part of a company in which i can grow and expand my knowl
 How they could help to monitor patients while they are waiting for treatment. If a patient waits too long, the AI should alert the health staff.
 
 
-
+<h2>Agile-Charter</h2>
+![agile charter 1](agile charter 1.png)
