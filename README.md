@@ -46,3 +46,34 @@ How they could help to monitor patients while they are waiting for treatment. If
 
 
 <img width="995" height="922" alt="Image" src="https://github.com/user-attachments/assets/100f269d-ba06-475d-b8bf-16dedf955d2b" />
+
+
+
+
+
+
+
+
+
+<img width="720" height="900" alt="Image" src="https://github.com/user-attachments/assets/852fc971-10fb-46d0-8b6c-7357edc5f153" />
+
+
+
+
+
+
+
+
+
+<img width="652" height="945" alt="Image" src="https://github.com/user-attachments/assets/194365ea-e4a3-4d11-b540-63de37484fdc" />
+
+
+
+
+
+
+
+
+
+
+<img width="709" height="553" alt="Image" src="https://github.com/user-attachments/assets/095427a7-ec89-488e-8456-c313b7059ddb" />
