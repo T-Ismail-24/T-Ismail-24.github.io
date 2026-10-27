@@ -40,3 +40,8 @@ How they could help to monitor patients while they are waiting for treatment. If
 
 <h2>Agile-Charter</h2>
 
+
+
+
+
+<img width="988" height="922" alt="Image" src="https://github.com/user-attachments/assets/100f269d-ba06-475d-b8bf-16dedf955d2b" />
