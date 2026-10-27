@@ -230,3 +230,31 @@ How they could help to monitor patients while they are waiting for treatment. If
 
 
 
+<h2>Product Backlog</h2>
+
+
+
+
+<img width="1179" height="787" alt="Image" src="https://github.com/user-attachments/assets/ca64c677-7e8a-4bd4-aa1c-5cd65ad58ff4" />
+
+
+
+
+
+
+
+
+<h2>Sprint Backlog</h2>
+
+
+
+
+
+<img width="840" height="787" alt="Image" src="https://github.com/user-attachments/assets/d1f26baf-fb25-4234-b6ae-d359ad2fb08c" />
+
+
+
+
+
+
+
